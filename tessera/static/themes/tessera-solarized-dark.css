@@ -76,19 +76,23 @@ hr {
     color: #93a1a1;
 }
 
-.ds-singlestat h3 {
+.ds-singlestat h3,
+.ds-timerstat h3 {
     color: #959588;
 }
 
-.well .ds-singlestat h3 {
+.well .ds-singlestat h3,
+.well .ds-timerstat h3 {
   color: #b58900;
 }
 
-.ds-singlestat p {
+.ds-singlestat p,
+.ds-timerstat p {
     color:white;
 }
 
 .ds-singlestat .unit,
+.ds-timerstat .unit,
 .ds-jumbotron-singlestat .unit {
     color: 586e75;
 }

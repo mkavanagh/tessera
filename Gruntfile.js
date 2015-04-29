@@ -48,6 +48,7 @@ module.exports = function(grunt) {
           'tessera/static/js/dataTables.bootstrap.min.js',
           'tessera/static/js/moment.min.js',
           'tessera/static/js/moment-timezone-with-data.min.js',
+          'tessera/static/js/humanize-duration.js',
           'tessera/static/js/marked.min.js',
           'tessera/static/js/mousetrap.min.js',
           'tessera/static/js/highlight.pack.js',

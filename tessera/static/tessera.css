@@ -159,15 +159,18 @@ h1.page-title {
   margin-top:0;
 }
 
-.ds-singlestat h3 {
+.ds-singlestat h3,
+.ds-timerstat h3 {
     margin: 0px;
 }
 
-.ds-singlestat p {
+.ds-singlestat p,
+.ds-timerstat p {
     margin-bottom: 0px;
 }
 
-.ds-singlestat .unit {
+.ds-singlestat .unit,
+.ds-timerstat .unit {
     margin-left: .25em;
 }
 

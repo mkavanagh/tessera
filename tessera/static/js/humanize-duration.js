@@ -270,7 +270,7 @@
       }
 
       // Add the string.
-      if (unitCount) {
+      if (unitCount || (result.length === 0 && (i + 1) === len)) {
         result.push(render(unitCount, unitName, dictionary, options.spacer));
       }
 
